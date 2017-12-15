@@ -11,7 +11,7 @@ namespace DiscoZoo_Prediction
     {
         #region Strings
 
-        public const string VERSION = "1.0";
+        public const string VERSION = "1.1";
         public const string WINDOW_TITLE = "DiscoZoo Prediction - v" + VERSION;
 
         #endregion
@@ -32,9 +32,9 @@ namespace DiscoZoo_Prediction
         public static Color ColorOrange { get; } = (Color)ColorConverter.ConvertFromString("#FFC107");
         public static Color ColorGreen { get; } = (Color)ColorConverter.ConvertFromString("#4CAF50");
         public static Color ColorBlank { get; } = (Color)ColorConverter.ConvertFromString("#9E9E9E");
-        public static Color ColorAnimal1 { get; } = (Color)ColorConverter.ConvertFromString("#03A9F4");
-        public static Color ColorAnimal2 { get; } = (Color)ColorConverter.ConvertFromString("#FF9800");
-        public static Color ColorAnimal3 { get; } = (Color)ColorConverter.ConvertFromString("#CDDC39");
+        public static Color ColorAnimal1 { get; } = (Color)ColorConverter.ConvertFromString("#76FF03");
+        public static Color ColorAnimal2 { get; } = (Color)ColorConverter.ConvertFromString("#00E5FF");
+        public static Color ColorAnimal3 { get; } = (Color)ColorConverter.ConvertFromString("#D500F9");
 
         #endregion
 
